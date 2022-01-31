@@ -1,0 +1,39 @@
+html {
+  font-size: 40px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+  font-family: "https://fonts.googleapis.com/css2?family=Sedgwick+Ave&display=swap", Sedgwick Ave; /* Este debe ser el resto del resultado que obtuviste de Google fonts */
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #9D3FBF;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0 20px 20px 20px;
+  border: 3px solid #5B2C6F;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #6C3483;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+  font-size: 25px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+  font-family: "https://fonts.googleapis.com/css2?family=Sedgwick+Ave&display=swap", Sedgwick Ave; /* Este debe ser el resto del resultado que obtuviste de Google fonts */
+}
